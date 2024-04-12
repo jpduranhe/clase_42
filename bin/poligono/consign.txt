@@ -1,0 +1,8 @@
+Tenemos una aplicación cuya función es calcular la suma del área de dos polígonos 
+y mostrar el resultado al usuario. 
+En un principio podríamos tener 
+clases para definir los objetos Cuadrado y su atributo int lado; 
+y Circulo con atributo int radio. que extienden de la clase padre Poligono.
+Los métodos a crear, además de los get y set, serán imprimirPoligono(), multiplicarArea() y sumarArea().
+Crea el programa de manera tal que cada clase tenga una única responsabilidad.
+Si consideras necesario crear más clases (lo será), hazlo!

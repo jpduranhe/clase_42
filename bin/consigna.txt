@@ -1,0 +1,11 @@
+Usuario
+	nombre 
+	apellido
+	
+GuardarUsuario
+
+
+Usuario en DB
+En un archivo plano
+Utilizando una Api de Google
+Utilizando MongoDb
